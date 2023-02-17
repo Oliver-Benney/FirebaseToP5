@@ -1,5 +1,5 @@
 firebase.initializeApp({
-    apiKey: "AIzaSyCdYuzDFMHgPE55h7sf_MDYirjUTNsRt-M",
+  apiKey: "AIzaSyCdYuzDFMHgPE55h7sf_MDYirjUTNsRt-M",
   authDomain: "oliver-s-firebasetop5.firebaseapp.com",
   projectId: "oliver-s-firebasetop5",
   storageBucket: "oliver-s-firebasetop5.appspot.com",
